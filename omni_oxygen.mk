@@ -35,8 +35,8 @@ PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := mido
-PRODUCT_NAME := omni_mido
+PRODUCT_DEVICE := oxygen
+PRODUCT_NAME := omni_oxygen
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi Note 4
+PRODUCT_MODEL := Redmi Mi Max 2
 PRODUCT_MANUFACTURER := Xiaomi
